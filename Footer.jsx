@@ -57,7 +57,7 @@ export const footer = {
 import { Link } from 'react-router-dom'
 import { Phone, Mail, Linkedin, Instagram } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { footer } from '../../content/siteContent'
+import { footer } from './footer'
 
 /* Icon lookup for social links */
 const socialIcons = {
